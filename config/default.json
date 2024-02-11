@@ -1,0 +1,6 @@
+{
+     "jwtSecret": "mysecrettoken",
+    "mongoURI": "mongodb+srv://wikeg74463:6606trijal@cluster0.sp9onan.mongodb.net/?retryWrites=true&w=majority",
+    "githubClientId": "25ba768f94edd29cc40c",
+    "githubSecret": "9bc79e2b0d67b937ba3ca1e7785a6c61dd705c22"
+}
