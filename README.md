@@ -8,4 +8,6 @@ Important characteristics:
 
 🌞 Knowledge Repository: Discover a wide spectrum of abilities and knowledge among your college's student body. Take inspiration from the successes and experiences of your fellow students to build a vibrant network for learning and development.
 
+ svvv-devconnector.netlify.app/
+
  
